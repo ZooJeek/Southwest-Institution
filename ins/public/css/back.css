@@ -1,0 +1,13 @@
+#article_info>.layui-input-block{
+	width: 8%;
+	float: left;
+	margin: 0px;
+}
+#article_info>.layui-form-label{
+	width: 5%;
+	float: left;
+	margin: 0px;
+}
+a:hover{
+	text-decoration: none;
+}

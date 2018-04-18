@@ -1,0 +1,63 @@
+.caContent{
+	border: 1px solid #000;
+}
+
+.workTitle{
+	list-style-type: none;
+	float: left;
+	width: 400px;
+	height: 20px;
+	margin: 4px 0px 1px 0px;
+	font-size: 14px;
+
+	color: black;
+	overflow: hidden;
+}
+.workTitle:hover{
+	color: #3998db;
+	list-style-type: square;
+	cursor: hand;
+}
+.mainTitle{
+	margin: 4px 0px 1px 30px; 
+	width: 400px;
+	height: 20px;
+	overflow: hidden;
+	color: black;
+	cursor: pointer;
+}
+
+.mainTitle:hover{
+	color:#3998db;
+}
+#menuContent>li{
+	width: 140px;
+	text-align: center;
+	color: white;
+}
+
+.menuDrop>a{
+	margin-top: 3px;
+	height: 30px;
+}
+
+.memberImg{
+	border: 0px;
+	height: 160px;
+	padding: 1px;
+}
+.memberName{
+	font-size: 18px;
+	margin-top: 5px;
+	color: #333;
+}
+
+.article_time{
+	color: #777;
+	float: left;
+	margin-left: 15px;
+}
+.articleTitle{
+	width: 300px;
+	float: left;
+}
